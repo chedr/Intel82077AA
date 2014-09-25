@@ -1,8 +1,3 @@
-<!--
-	This is a Markdown document. If you wish to render this, try:
-	http://www.markdownviewer.com/; otherwise enjoy the simple plaintext syntax!
--->
-
 Floppy Controller Driver
 ========================
 
@@ -260,5 +255,3 @@ Function Declarations
 	*/
 	void _floppy_format(floppy_controller_t ctrlr, floppy_parameters_t *floppy,
 	                    floppy_track_t track);
-
-
